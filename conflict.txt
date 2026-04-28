@@ -1,1 +1,2 @@
 Line from user1
+User2 write this line
